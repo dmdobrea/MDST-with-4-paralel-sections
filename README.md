@@ -4,16 +4,13 @@ This repository contains the source code associated with the research paper:
 
 **"A Novel Low-Complexity Four-Way Parallel MDST Algorithm for GPU and Multicore CPU Architectures"**
 
-submitted to / published in:
+submitted to:
 
 **Eng (MDPI)**  
 Journal link: https://www.mdpi.com/journal/eng
 
 Authors:
 - Doru Florin Chiper, Dan Marius Dobrea 
-
-DOI:
-- To be completed after publication
 
 ---
 
