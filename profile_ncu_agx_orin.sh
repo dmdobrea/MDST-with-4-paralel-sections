@@ -69,7 +69,7 @@ for B in "${B_VALUES[@]}"; do
     echo "ERROR: ncu failed for B=$B. See $RAW" >&2
     if grep -qiE "permission|ERR_NVGPUCTRPERM|profiling.*restricted" "$RAW"; then
       echo "Hint: retry with:" >&2
-      echo "  USE_SUDO=1 ./profile_ncu_agx_orin_v5.sh $EXE" >&2
+      echo "  USE_SUDO=1 ./profile_ncu_agx_orin.sh $EXE" >&2
     fi
     exit $STATUS
   fi
