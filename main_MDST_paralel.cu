@@ -322,6 +322,7 @@ int main (void)
 	float milliseconds = 0;
 	cudaEventElapsedTime (&milliseconds, start, stop);
 
+    printf("Elapsed time: %.6f ms\n", milliseconds);
 //==================> END!!!!		
 	getchar();
 	return 0;
