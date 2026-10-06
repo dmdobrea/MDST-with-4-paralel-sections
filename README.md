@@ -269,7 +269,7 @@ If you use this code, please cite the paper (the reference will be completed aft
   author  = {Chiper, Doru Florin and Dobrea, Dan Marius},
   title   = {A Novel Low-Complexity Four-Way Parallel {MDST} Algorithm for {GPU} and Multicore {CPU} Architectures},
   journal = {Eng},
-  year    = {[Year]},
+  year    = {2026},
   volume  = {[Volume]},
   pages   = {[Article number]},
   doi     = {[DOI]}
